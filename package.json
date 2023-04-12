@@ -1,0 +1,18 @@
+{
+  "name": "poonode",
+  "version": "1.0.0",
+  "description": "Une application CLI pour faire un Leboncoin des chaussures",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lisa Daudibon",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "4.0",
+    "chalk": "2.4"
+  }
+}
